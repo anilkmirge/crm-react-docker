@@ -1,0 +1,35 @@
+/* .default-color{
+    background-color: rgb(33, 158, 158);
+} */
+
+.navbar {
+    background-color: #2196f3;
+}
+.navbar-light .navbar-brand {
+    color: white;
+    font-family: 'Cutive Mono', monospace;
+}
+
+span.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.navbar-brand:hover {
+    color: #ffc400;
+}
+
+.ml-auto a {
+    color: white;
+    font-family: 'Cutive Mono', monospace;
+    font-weight: bold;
+}
+
+button.navbar-toggler:hover {
+    background-color: whitesmoke;
+}
+.ml-auto a:hover {
+    color: #454545;
+    font-family: 'Cutive Mono', monospace;
+}
